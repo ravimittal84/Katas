@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{478BFC68-6AED-46D7-B6F8-0351A94FBF06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowling", "Bowling\Bowling.csproj", "{7429BFF2-33D1-41CA-B4CC-4B7EA287B65C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{F6B9A799-BE3A-4E87-AA8E-34B207BD6678}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{478BFC68-6AED-46D7-B6F8-0351A94FBF06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{478BFC68-6AED-46D7-B6F8-0351A94FBF06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{478BFC68-6AED-46D7-B6F8-0351A94FBF06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7429BFF2-33D1-41CA-B4CC-4B7EA287B65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7429BFF2-33D1-41CA-B4CC-4B7EA287B65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7429BFF2-33D1-41CA-B4CC-4B7EA287B65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7429BFF2-33D1-41CA-B4CC-4B7EA287B65C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B9A799-BE3A-4E87-AA8E-34B207BD6678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B9A799-BE3A-4E87-AA8E-34B207BD6678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B9A799-BE3A-4E87-AA8E-34B207BD6678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B9A799-BE3A-4E87-AA8E-34B207BD6678}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
